@@ -1,0 +1,17 @@
+# Ignoriraj Python generirane datoteke
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignoriraj virtualne okruženja
+venv/
+env/
+
+# Ignoriraj datoteke za IDE-ove
+.vscode/
+.idea/
+
+# Ignoriraj druge privremene datoteke
+*.log
+*.tmp
