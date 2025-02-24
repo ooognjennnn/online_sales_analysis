@@ -13,7 +13,6 @@ env/
 .idea/
 
 # Ignoriraj druge privremene datoteke
-*.log
-*.tmp
+
 config.json
-screenshots\
+screenshots/
